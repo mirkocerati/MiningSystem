@@ -1,0 +1,18 @@
+#The material that will replace a block when mined
+placeholder: BEDROCK
+
+#The amount of MS (milliseconds!!) after which a block will be regenerated
+timer: 5000
+
+#Worlds where the plugin should work
+worlds:
+  - mine-world
+  - example
+  - some-other-world
+
+#List of materials
+blocks:
+  - COAL_ORE
+  - IRON_ORE
+  - GOLD_ORE
+

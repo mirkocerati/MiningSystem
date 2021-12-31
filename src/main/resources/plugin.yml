@@ -1,0 +1,9 @@
+name: MiningSystem
+version: ${project.version}
+
+website: https//github.com/mirkocerati/MiningSystem
+
+main: com.aubenoire.miningsystem.MiningSystem
+
+commands:
+  miningsystem:
